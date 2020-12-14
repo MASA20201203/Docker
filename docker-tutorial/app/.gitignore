@@ -1,0 +1,4 @@
+docker-tutorial/app/node_modules/**/LICENSE
+docker-tutorial/app/node_modules/**/package.json
+docker-tutorial/app/node_modules/**/README.md
+/node_modules/
